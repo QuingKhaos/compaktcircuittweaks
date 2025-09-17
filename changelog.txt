@@ -7,3 +7,5 @@ Date: ????
     - [item=compaktcircuit-input] Move to subgroup circuit-combinator when SchallCircuitGroup is installed.
     - [item=compaktcircuit-internal_iopoint] Move to subgroup circuit-input when SchallCircuitGroup is installed.
     - [item=compaktcircuit-display] Move to subgroup circuit-visual when SchallCircuitGroup is installed.
+  Features:
+    - Add setting to remove [item=advanced-circuit] and [item=processing-unit] from compact processor recipes, making them easier to produce in the early game. This change will also move the compact circuits technology directly after circuit networks in the tech tree and makes it cheaper to research.

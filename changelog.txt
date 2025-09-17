@@ -1,3 +1,9 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: ????
+  Changes:
+    - [item=compaktcircuit-processor] Keep subgroup circuit-network when SchallCircuitGroup is installed.
+    - [item=compaktcircuit-processor_1x1] Keep subgroup circuit-network when SchallCircuitGroup is installed.
+    - [item=compaktcircuit-input] Move to subgroup circuit-combinator when SchallCircuitGroup is installed.
+    - [item=compaktcircuit-internal_iopoint] Move to subgroup circuit-input when SchallCircuitGroup is installed.
+    - [item=compaktcircuit-display] Move to subgroup circuit-visual when SchallCircuitGroup is installed.

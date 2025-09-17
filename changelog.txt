@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
-Date: ????
+Date: 2025-09-17
   Changes:
     - [item=compaktcircuit-processor] Keep subgroup circuit-network when SchallCircuitGroup is installed.
     - [item=compaktcircuit-processor_1x1] Keep subgroup circuit-network when SchallCircuitGroup is installed.
